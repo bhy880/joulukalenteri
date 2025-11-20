@@ -1,6 +1,6 @@
 // === SETTINGS ===
 // For real use: keep overrideDate = null. For testing, set e.g. '2025-12-07'.
-const overrideDate = null; // 'YYYY-MM-DD' or null
+const overrideDate = '2025-12-12'; // 'YYYY-MM-DD' or null
 
 // Content for each door (texts removed)
 const doorContent = {
